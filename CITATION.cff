@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this model or data, please cite it as below."
+title: "Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2050 and Power-System Implications"
+type: software
+authors:
+  - family-names: Merilehto
+    given-names: Juhani
+version: 1.0.0
+date-released: 2026-11-06
+license: [CC-BY-4.0, MIT]
+repository-code: "https://github.com/juhanimerilehto/qc-electricity-finland-2050"
+url: "https://github.com/juhanimerilehto/qc-electricity-finland-2050/tree/v1.0.0"
+keywords:
+  - quantum computing
+  - electricity demand
+  - Finland
+  - power systems
+  - scenario analysis
+  - data centres
+references:
+  - type: report
+    title: "Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2035 and Power-System Implications"
+    authors:
+      - family-names: Merilehto
+        given-names: Juhani
+    year: 2026
+    doi: 10.5281/zenodo.21966116
