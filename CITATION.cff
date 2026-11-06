@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Merilehto
     given-names: Juhani
+    orcid: "https://orcid.org/0000-0002-8010-3725"
 version: 1.0.0
 doi: 10.5281/zenodo.24014826
 date-released: 2026-11-06
@@ -18,6 +19,17 @@ keywords:
   - power systems
   - scenario analysis
   - data centres
+preferred-citation:
+  type: report
+  title: "Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2050 and Power-System Implications"
+  authors:
+    - family-names: Merilehto
+      given-names: Juhani
+      orcid: "https://orcid.org/0000-0002-8010-3725"
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: 10.5281/zenodo.24014826
 references:
   - type: report
     title: "Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2035 and Power-System Implications"
