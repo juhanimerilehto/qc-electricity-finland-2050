@@ -3,11 +3,10 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24014826-1f6feb.svg)](https://doi.org/10.5281/zenodo.24014826)
 [![Text & data: CC BY 4.0](https://img.shields.io/badge/text%20%26%20data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE.txt)
-[![2035 study DOI](https://img.shields.io/badge/2035%20study-10.5281%2Fzenodo.21966116-lightgrey.svg)](https://doi.org/10.5281/zenodo.21966116)
 
 **When does quantum computing stop being a grid-connection question and become a matter for the Finnish electricity system as a whole?**
 
-This repository contains the paper source, scenario model and full outputs for *Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2050 and Power-System Implications* (Merilehto, 2026; [doi:10.5281/zenodo.24014826](https://doi.org/10.5281/zenodo.24014826)). It extends the [2035 study](https://doi.org/10.5281/zenodo.21966116) to 2050. Quantum computing is treated as a full-stack facility load, not a qubit count: quantum hardware, cryogenic or optical environment, control, directly induced classical co-compute and dedicated infrastructure.
+This repository contains the paper source, scenario model and full outputs for *Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2050 and Power-System Implications* (Merilehto, 2026; [doi:10.5281/zenodo.24014826](https://doi.org/10.5281/zenodo.24014826)). Quantum computing is treated as a full-stack facility load, not a qubit count: quantum hardware, cryogenic or optical environment, control, directly induced classical co-compute and dedicated infrastructure.
 
 The capacities are **assumed deployment stress scenarios**, not forecasts or estimates derived from quantum workloads. The contribution is to show what each path would mean for the Finnish grid, and which assumptions decide it.
 
@@ -36,7 +35,7 @@ Finnish quantum-related connected capacity and annual electricity (low / central
 
 ## What the model does
 
-1. **Retains the 2030 and 2035 states.** It reads them from the 2035 study's published parameter file (`data/inputs/`) and stops if it cannot reproduce that study's results exactly.
+1. **Starts from the 2030 and 2035 planning states.** These are read from `data/inputs/`, and the model stops if it cannot reproduce them exactly.
 2. **Builds capacity from 2035 to 2050.** Nordic capacity grows toward a 2050 target along a logistic path, limited by an annual build rate, a commissioning lag and retirement. Orders already under way in 2035 are delivered.
 3. **Hosts it in Finland.** Finnish capacity = min(hosting share × Nordic capacity, Finnish connection budget).
 4. **Converts capacity to grid quantities.** Realised peak = C·r, minimum stable import = C·r·m, annual energy = C·r·ℓ·8760, with the invariants 0 ≤ m ≤ ℓ ≤ 1 checked before writing.
@@ -65,7 +64,7 @@ Finnish quantum-related connected capacity and annual electricity (low / central
 │   ├── model.py            # scenario model, standard library only
 │   └── figures.py          # regenerates paper/figures/
 ├── data/
-│   ├── inputs/             # 2035 study's parameter and results files, unchanged
+│   ├── inputs/             # 2030/2035 planning-state inputs (from the earlier study, unchanged)
 │   ├── paths.csv           # annual 2035–2050 paths, every case and state
 │   ├── results.csv         # 2030 / 2035 / 2040 / 2045 / 2050 results
 │   ├── materiality.csv     # shares of national and data-centre references
@@ -107,18 +106,13 @@ cd paper; latexmk -pdf main.tex
   doi         = {10.5281/zenodo.24014826},
   url         = {https://doi.org/10.5281/zenodo.24014826}
 }
-
-@techreport{merilehto2026qc2035,
-  author      = {Merilehto, Juhani},
-  title       = {Quantum Computing as an Emerging Electricity Load in {Finland}:
-                 Scenarios to 2035 and Power-System Implications},
-  year        = {2026},
-  institution = {Zenodo},
-  doi         = {10.5281/zenodo.21966116}
-}
 ```
 
 GitHub's **Cite this repository** button uses `CITATION.cff`.
+
+## Earlier work
+
+This study extends an earlier analysis to 2035 ([doi:10.5281/zenodo.21966116](https://doi.org/10.5281/zenodo.21966116)), whose 2030/2035 planning states it retains.
 
 ## Licence
 
