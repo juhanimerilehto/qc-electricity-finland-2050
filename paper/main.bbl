@@ -1,0 +1,300 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Bluefors}(2024)]{bluefors2024heat}
+{Bluefors}.
+\newblock Heat recovery system installed at {Bluefors}, transforming heat from
+  waste to resource.
+\newblock
+  \url{https://bluefors.com/news/heat-recovery-system-installed-at-bluefors-transforming-heat-from-waste-to-resource/},
+  December 2024.
+\newblock Accessed 15 August 2026.
+
+\bibitem[{Bluefors}(2026{\natexlab{a}})]{bluefors2026dr}
+{Bluefors}.
+\newblock Dilution refrigerator measurement systems.
+\newblock
+  \url{https://bluefors.com/products/dilution-refrigerator-measurement-systems/},
+  2026{\natexlab{a}}.
+\newblock Accessed 15 August 2026.
+
+\bibitem[{Bluefors}(2026{\natexlab{b}})]{bluefors2026sd}
+{Bluefors}.
+\newblock {SD} dilution refrigerator measurement system.
+\newblock
+  \url{https://bluefors.com/products/dilution-refrigerator-measurement-systems/sd-dilution-refrigerator-measurement-system/},
+  2026{\natexlab{b}}.
+\newblock Accessed 15 August 2026.
+
+\bibitem[{Brisbane Economic Development Agency}(2025)]{bea2025psiq}
+{Brisbane Economic Development Agency}.
+\newblock A quantum leap for {Brisbane}: {PsiQuantum}'s groundbreaking computer
+  takes shape.
+\newblock
+  \url{https://choose.brisbane.qld.au/news/psiquantums-groundbreaking-computer-takes-shape},
+  June 2025.
+\newblock Site with more than a hundred cryogenic cabinets and a cryoplant; no
+  MW figure disclosed. Accessed 28 October 2026.
+
+\bibitem[Carrasco-Codina et~al.(2026)Carrasco-Codina, Escofet, Hilaire, Soret,
+  Nerenberg, Champain, Milburn, Theophilo, Li, Bautista, G{\'o}mez, Miralles,
+  Abadal, Almud{\'e}ver, Alarc{\'o}n, and Yehia]{carrasco2026energy}
+Miquel Carrasco-Codina, Pau Escofet, Paul Hilaire, Ariane Soret, Sam Nerenberg,
+  Victor Champain, Gerard Milburn, Klara Theophilo, Sophie~H. Li, Irais
+  Bautista, Andr{\'e}s G{\'o}mez, Jose Miralles, Sergi Abadal, Carmen~G.
+  Almud{\'e}ver, Eduard Alarc{\'o}n, and Raja Yehia.
+\newblock Energy efficiency of quantum computers.
+\newblock \emph{arXiv preprint arXiv:2605.15090v2}, 2026.
+\newblock \doi{10.48550/arXiv.2605.15090}.
+
+\bibitem[{Chalmers University of Technology}(2026)]{chalmers2026}
+{Chalmers University of Technology}.
+\newblock Chalmers to lead new strategic research area in quantum technology.
+\newblock
+  \url{https://www.chalmers.se/en/current/news/mc2-chalmers-to-lead-new-strategic-research-area-in-quantum-technology/},
+  April 2026.
+\newblock WACQT target of 100 qubits by 2030. Accessed 15 August 2026.
+
+\bibitem[{CSC -- IT Center for Science}(2026)]{csc2026lumiiq}
+{CSC -- IT Center for Science}.
+\newblock {LUMI AI Factory} advances toward {Europe}'s first superconducting
+  quantum computer with logical qubits.
+\newblock
+  \url{https://csc.fi/en/media-release/lumi-ai-factory-advances-toward-europes-first-superconducting-quantum-computer-with-logical-qubits/},
+  September 2026.
+\newblock Media release, 10 September 2026. Accessed 28 October 2026.
+
+\bibitem[Fellous-Asiani et~al.(2023)Fellous-Asiani, Chai, Thonnart, Ng,
+  Whitney, and Auff{\`e}ves]{fellous2023optimizing}
+Marco Fellous-Asiani, Jing~Hao Chai, Yvain Thonnart, Hui~Khoon Ng, Robert~S.
+  Whitney, and Alexia Auff{\`e}ves.
+\newblock Optimizing resource efficiencies for scalable full-stack quantum
+  computers.
+\newblock \emph{PRX Quantum}, 4:\penalty0 040319, 2023.
+\newblock \doi{10.1103/PRXQuantum.4.040319}.
+
+\bibitem[{Fingrid}(2023)]{fingrid2023vision}
+{Fingrid}.
+\newblock Fingrid's electricity system vision 2023.
+\newblock
+  \url{https://www.fingrid.fi/globalassets/dokumentit/en/news/electricity-market/2023/fingrid_electricity_system_vision_2023.pdf},
+  2023.
+\newblock Four scenarios with 2035 and 2045 horizons. Accessed 28 October 2026.
+
+\bibitem[{Fingrid}(2025)]{fingrid2025conditional}
+{Fingrid}.
+\newblock New conditional connection agreement model introduced to support grid
+  connection and investment decision processes in large industrial projects.
+\newblock
+  \url{https://www.fingrid.fi/en/news/news/2025/new-conditional-connection-agreement-model-introduced-to-support-grid-connection-and-investment-decision-processes-in-large-industrial-projects/},
+  June 2025.
+\newblock Accessed 15 August 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{a}})]{fingrid2026kjv}
+{Fingrid}.
+\newblock Draft for comments: {KJV2026} grid code specifications for demand
+  connections.
+\newblock
+  \url{https://www.fingrid.fi/en/grid/grid-connection-agreement-phases/grid-code-specifications/draft-for-comments-kjv2026-grid-code-specifications-for-demand-connections/},
+  2026{\natexlab{a}}.
+\newblock Consultation 12 June--21 August 2026; target confirmation March 2027.
+  Accessed 28 October 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{b}})]{fingrid2026large}
+{Fingrid}.
+\newblock Technical requirements for large demand facilities.
+\newblock
+  \url{https://www.fingrid.fi/en/grid/grid-connection-agreement-phases/grid-code-specifications/grid-specifications-for-demand-connections/},
+  June 2026{\natexlab{b}}.
+\newblock Published 12 June 2026, applied immediately to transmission-connected
+  demand facilities. Accessed 28 October 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{c}})]{fingrid2026prospects}
+{Fingrid}.
+\newblock Prospects for electricity production and consumption: {Fingrid}'s
+  forecast {Q3/2026}.
+\newblock
+  \url{https://www.fingrid.fi/globalassets/dokumentit/fi/kantaverkko/kantaverkon-kehittaminen/best-estimate-q3-2026/fingrid_prospects-q3-2026-eng.pdf},
+  September 2026{\natexlab{c}}.
+\newblock Accessed 28 October 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{d}})]{fingrid2026q1}
+{Fingrid}.
+\newblock Fingrid group -- management's review 1.1.--31.3.2026.
+\newblock
+  \url{https://www.fingrid.fi/en/news/news/2026/fingrid-group--managements-review-1.1.31.3.2026/},
+  April 2026{\natexlab{d}}.
+\newblock All-time Finnish consumption record of 15\,553~MW, January 2026.
+  Accessed 15 August 2026.
+
+\bibitem[{Fingrid}(2026{\natexlab{e}})]{fingrid2026q3}
+{Fingrid}.
+\newblock Fingrid group -- management's review 1.1.--30.9.2026.
+\newblock
+  \url{https://www.globenewswire.com/news-release/2026/10/29/3391254/0/en/fingrid-group-management-s-review-1-1-30-9-2026.html},
+  October 2026{\natexlab{e}}.
+\newblock Published 29 October 2026. Accessed 29 October 2026.
+
+\bibitem[Gratsea and Otten(2025)]{gratsea2025codesign}
+Katerina Gratsea and Matthew Otten.
+\newblock Achieving utility-scale applications through full stack co-design of
+  fault tolerant quantum computers.
+\newblock \emph{arXiv preprint arXiv:2510.26547v2}, 2025.
+\newblock \doi{10.48550/arXiv.2510.26547}.
+
+\bibitem[{IBM Quantum}(2026{\natexlab{a}})]{ibm2026hardware}
+{IBM Quantum}.
+\newblock Quantum computing hardware and roadmap.
+\newblock \url{https://www.ibm.com/quantum/hardware}, 2026{\natexlab{a}}.
+\newblock Accessed 15 August 2026.
+
+\bibitem[{IBM Quantum}(2026{\natexlab{b}})]{ibm2026roadmap}
+{IBM Quantum}.
+\newblock Quantum roadmap.
+\newblock \url{https://www.ibm.com/roadmaps/quantum/}, 2026{\natexlab{b}}.
+\newblock Starling (2029): 200 qubits, $10^8$ gates; Blue Jay (2033+): 2000
+  qubits, $10^9$ gates. Accessed 28 October 2026.
+
+\bibitem[{International Energy Agency}(2025)]{iea2025energyai}
+{International Energy Agency}.
+\newblock Energy and {AI}.
+\newblock \url{https://www.iea.org/reports/energy-and-ai/executive-summary},
+  2025.
+\newblock Base Case: about 1\,200~TWh of global data-centre electricity in
+  2035. Accessed 15 August 2026.
+
+\bibitem[{International Energy Agency}(2026)]{iea2026keyquestions}
+{International Energy Agency}.
+\newblock Key questions on energy and {AI}.
+\newblock
+  \url{https://iea.blob.core.windows.net/assets/3179f7f8-01f6-4dd6-bffa-c9f7b73f1dc9/KeyQuestionsonEnergyandAI.pdf},
+  2026.
+\newblock World Energy Outlook Special Report. Global data-centre electricity
+  485~TWh in 2025 and 950~TWh in 2030. Accessed 28 October 2026.
+
+\bibitem[Kawabata(2026)]{kawabata2026cryo}
+Shiro Kawabata.
+\newblock Integration and resource estimation of cryoelectronics for
+  superconducting fault-tolerant quantum computers.
+\newblock \emph{arXiv preprint arXiv:2601.03922}, 2026.
+\newblock \doi{10.48550/arXiv.2601.03922}.
+
+\bibitem[Majumder et~al.(2026)Majumder, Yu, and Xie]{majumder2026ramps}
+Subir Majumder, Minlan Yu, and Le~Xie.
+\newblock Workload composition smooths aggregate power demand while sustaining
+  short-horizon ramps in {AI} data centers.
+\newblock \emph{arXiv preprint arXiv:2604.10769}, 2026.
+\newblock \doi{10.48550/arXiv.2604.10769}.
+
+\bibitem[Martin et~al.(2022)Martin, Hughes, Moreno, Jones, Sickinger,
+  Narumanchi, and Grout]{martin2022energy}
+Michael~James Martin, Caroline Hughes, Gilberto Moreno, Eric~B. Jones, David
+  Sickinger, Sreekant Narumanchi, and Ray Grout.
+\newblock Energy use in quantum data centers: Scaling the impact of computer
+  architecture, qubit performance, size, and thermal parameters.
+\newblock \emph{IEEE Transactions on Sustainable Computing}, 7\penalty0
+  (4):\penalty0 864--874, 2022.
+\newblock \doi{10.1109/TSUSC.2022.3190425}.
+
+\bibitem[McCollum et~al.(2026)McCollum, Sharma, Pan, Yao, Bhanja, Chehade, and
+  Delgado]{mccollum2026futures}
+David~L. McCollum, Naushita Sharma, Melrose Pan, Weijun Yao, Soumendra Bhanja,
+  Sarah Chehade, and Andrea Delgado.
+\newblock Uncertain quantum computing futures and potential energy and physical
+  resource impacts at scale.
+\newblock \emph{Renewable and Sustainable Energy Transition}, 9:\penalty0
+  100140, 2026.
+\newblock \doi{10.1016/j.rset.2026.100140}.
+
+\bibitem[Merilehto(2026{\natexlab{a}})]{merilehto2026blog}
+Juhani Merilehto.
+\newblock Suomen s{\"a}hk{\"o}markkinan j{\"a}lkiteollinen vallankumous --
+  datakeskusten tulo vaatii joustoa muilta markkinatoimijoilta.
+\newblock Gasum blog, 5 October 2026.
+  \url{https://www.gasum.com/fi/uutiset-ja-asiakastarinat/blogit/2026/suomen-sahkomarkkinan-jalkiteollinen-vallankumous--datakeskusten-tulo-vaatii-joustoa-muilta-markkinatoimijoilta/},
+  October 2026{\natexlab{a}}.
+\newblock In Finnish. [The post-industrial revolution of the Finnish
+  electricity market: the arrival of data centres requires flexibility from
+  other market actors].
+
+\bibitem[Merilehto(2026{\natexlab{b}})]{merilehto2026qc2035}
+Juhani Merilehto.
+\newblock Quantum computing as an emerging electricity load in {Finland}:
+  Scenarios to 2035 and power-system implications.
+\newblock Technical report, Zenodo, 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.21966116}.
+
+\bibitem[Niu et~al.(2026)Niu, Wu, Kilic, and Yu]{niu2026full}
+Siyuan Niu, Di~Wu, Ozgur~Ozan Kilic, and Kwangmin Yu.
+\newblock Estimating the energy consumption of quantum computing from a full
+  system aspect.
+\newblock \emph{arXiv preprint arXiv:2605.09580v2}, 2026.
+\newblock \doi{10.48550/arXiv.2605.09580}.
+
+\bibitem[{PsiQuantum}(2025)]{psiquantum2025chicago}
+{PsiQuantum}.
+\newblock {PsiQuantum} breaks ground on {America}'s largest quantum computing
+  project in {Chicago}.
+\newblock
+  \url{https://www.psiquantum.com/news-import/psiquantum-breaks-ground-chicago},
+  September 2025.
+\newblock Accessed 28 October 2026.
+
+\bibitem[{Quantinuum}(2026)]{quantinuum2026q2}
+{Quantinuum}.
+\newblock Quantinuum reports second quarter 2026 results.
+\newblock
+  \url{https://www.quantinuum.com/press-releases/quantinuum-reports-second-quarter-2026-results},
+  August 2026.
+\newblock Apollo on schedule for 2029; Sol in 2027; Helios deployment in an
+  Oracle Cloud Infrastructure AI data centre. Accessed 28 October 2026.
+
+\bibitem[{QuNorth}(2026)]{qunorth2026magne}
+{QuNorth}.
+\newblock Magne: {QuNorth} specifications.
+\newblock \url{https://qunorth.com/magne}, 2026.
+\newblock Early 2027; roughly 50 logical qubits on 1\,200+ neutral-atom
+  physical qubits. Accessed 28 October 2026.
+
+\bibitem[Santos et~al.(2026)Santos, Nath, Pezzutto, Savin, Meunier, and
+  Omar]{santos2026spin}
+Jo{\~a}o Santos, Jayshankar Nath, Marco Pezzutto, Valentin Savin, Tristan
+  Meunier, and Yasser Omar.
+\newblock Energetics of fault-tolerant spin-qubit quantum computation.
+\newblock \emph{arXiv preprint arXiv:2610.22199}, 2026.
+\newblock \doi{10.48550/arXiv.2610.22199}.
+
+\bibitem[{VTT Technical Research Centre of Finland}(2025)]{vtt2025iqm300}
+{VTT Technical Research Centre of Finland}.
+\newblock {IQM Quantum Computers} to supply {Finland} with a world-leading
+  superconducting 300-qubit quantum computer.
+\newblock
+  \url{https://www.vttresearch.com/en/news-and-ideas/iqm-quantum-computers-supply-finland-world-leading-superconducting-300-qubit-quantum},
+  May 2025.
+\newblock Accessed 15 August 2026.
+
+\bibitem[{VTT Technical Research Centre of Finland}(2026)]{vtt2026infra}
+{VTT Technical Research Centre of Finland}.
+\newblock Quantum computers: {VTT} infrastructure.
+\newblock
+  \url{https://www.vttresearch.com/en/technology-infrastructures/quantum-computers},
+  2026.
+\newblock Accessed 28 October 2026.
+
+\bibitem[Williams et~al.(2026)Williams, Colangelo, Coskun, Levine, Neale,
+  Roberts, Sengupta, Shirolkar, Sivaram, Soares, Tiao, Underwood, Wilson,
+  Sharp, Wainwright, Petty, Wallace, and Records]{williams2026flex}
+Chris Williams, Philip Colangelo, Ayse Coskun, Ethan Levine, Andy Neale, Ciaran
+  Roberts, Shayan Sengupta, Nikhil Shirolkar, Varun Sivaram, Sarah Soares,
+  Ethan Tiao, Scott Underwood, Daniel Wilson, Frank Sharp, Luke Wainwright,
+  Harry Petty, Scott Wallace, and Brandon Records.
+\newblock Power-flexible {AI} data centers: A new paradigm for grid-responsive
+  compute.
+\newblock \emph{arXiv preprint arXiv:2606.25098}, 2026.
+\newblock \doi{10.48550/arXiv.2606.25098}.
+
+\end{thebibliography}

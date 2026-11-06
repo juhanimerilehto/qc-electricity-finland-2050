@@ -1,0 +1,7 @@
+horizon,scenario,nordic_connected_mw_low,nordic_connected_mw_central,nordic_connected_mw_high,finland_capture_low,finland_capture_central,finland_capture_high,finland_connected_mw_low,finland_connected_mw_central,finland_connected_mw_high,peak_to_connected_low,peak_to_connected_central,peak_to_connected_high,operating_load_factor_low,operating_load_factor_central,operating_load_factor_high,minimum_stable_fraction_low,minimum_stable_fraction_central,minimum_stable_fraction_high
+2030,Base: hybrid integration,2,8,20,0.25,0.3,0.35,0.5,2.4,7,0.65,0.75,0.85,0.85,0.86,0.88,0.80,0.76,0.72
+2030,Accelerated: commercial scaling,60,200,400,0.25,0.3,0.38,15,60,152,0.6,0.72,0.82,0.72,0.78,0.84,0.65,0.55,0.45
+2030,High: FTQC + Finland concentration,450,650,900,0.33,0.42,0.45,148.5,273,405,0.55,0.68,0.8,0.7,0.76,0.82,0.55,0.45,0.35
+2035,Base: hybrid integration,20,80,180,0.25,0.32,0.4,5,25.6,72,0.7,0.8,0.88,0.8,0.84,0.88,0.75,0.65,0.55
+2035,Accelerated: commercial scaling,450,1100,2000,0.3,0.36,0.4,135,396,800,0.65,0.78,0.88,0.74,0.82,0.88,0.55,0.45,0.35
+2035,High: FTQC cluster build-out,1500,3000,6000,0.4,0.4,0.42,600,1200,2520,0.6,0.75,0.88,0.72,0.82,0.88,0.45,0.35,0.25

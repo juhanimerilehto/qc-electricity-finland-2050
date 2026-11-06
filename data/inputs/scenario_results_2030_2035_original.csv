@@ -1,0 +1,19 @@
+horizon,scenario,state,nordic_connected_mw,finland_hosting_share,finland_connected_mw,peak_to_connected,operating_load_factor,minimum_stable_fraction,realised_peak_mw,minimum_stable_import_mw,nominally_curtailable_mw,annual_electricity_twh
+2030,Base: hybrid integration,low,2.0,0.25,0.5,0.65,0.85,0.8,0.325,0.26,0.065,0.00241995
+2030,Base: hybrid integration,central,8.0,0.3,2.4,0.75,0.86,0.76,1.8,1.368,0.432,0.01356048
+2030,Base: hybrid integration,high,20.0,0.35,7.0,0.85,0.88,0.72,5.95,4.284,1.666,0.04586736
+2030,Accelerated: commercial scaling,low,60.0,0.25,15.0,0.6,0.72,0.65,9.0,5.85,3.15,0.0567648
+2030,Accelerated: commercial scaling,central,200.0,0.3,60.0,0.72,0.78,0.55,43.2,23.76,19.44,0.29517696
+2030,Accelerated: commercial scaling,high,400.0,0.38,152.0,0.82,0.84,0.45,124.64,56.088,68.552,0.917150976
+2030,High: FTQC + Finland concentration,low,450.0,0.33,148.5,0.55,0.7,0.55,81.675,44.92125,36.75375,0.5008311
+2030,High: FTQC + Finland concentration,central,650.0,0.42,273.0,0.68,0.76,0.45,185.64,83.538,102.102,1.235916864
+2030,High: FTQC + Finland concentration,high,900.0,0.45,405.0,0.8,0.82,0.35,324.0,113.4,210.6,2.3273568
+2035,Base: hybrid integration,low,20.0,0.25,5.0,0.7,0.8,0.75,3.5,2.625,0.875,0.024528
+2035,Base: hybrid integration,central,80.0,0.32,25.6,0.8,0.84,0.65,20.48,13.312,7.168,0.150700032
+2035,Base: hybrid integration,high,180.0,0.4,72.0,0.88,0.88,0.55,63.36,34.848,28.512,0.488429568
+2035,Accelerated: commercial scaling,low,450.0,0.3,135.0,0.65,0.74,0.55,87.75,48.2625,39.4875,0.5688306
+2035,Accelerated: commercial scaling,central,1100.0,0.36,396.0,0.78,0.82,0.45,308.88,138.996,169.884,2.218746816
+2035,Accelerated: commercial scaling,high,2000.0,0.4,800.0,0.88,0.88,0.35,704.0,246.4,457.6,5.4269952
+2035,High: FTQC cluster build-out,low,1500.0,0.4,600.0,0.6,0.72,0.45,360.0,162.0,198.0,2.270592
+2035,High: FTQC cluster build-out,central,3000.0,0.4,1200.0,0.75,0.82,0.35,900.0,315.0,585.0,6.46488
+2035,High: FTQC cluster build-out,high,6000.0,0.42,2520.0,0.88,0.88,0.25,2217.6,554.4,1663.2,17.09503488
