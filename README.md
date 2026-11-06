@@ -1,12 +1,13 @@
 # Quantum Computing as an Emerging Electricity Load in Finland — Scenarios to 2050
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24014826-1f6feb.svg)](https://doi.org/10.5281/zenodo.24014826)
 [![Text & data: CC BY 4.0](https://img.shields.io/badge/text%20%26%20data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE.txt)
-[![2035 study DOI](https://img.shields.io/badge/2035%20study-10.5281%2Fzenodo.21966116-1f6feb.svg)](https://doi.org/10.5281/zenodo.21966116)
+[![2035 study DOI](https://img.shields.io/badge/2035%20study-10.5281%2Fzenodo.21966116-lightgrey.svg)](https://doi.org/10.5281/zenodo.21966116)
 
 **When does quantum computing stop being a grid-connection question and become a matter for the Finnish electricity system as a whole?**
 
-This repository contains the paper source, scenario model and full outputs for *Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2050 and Power-System Implications* (Merilehto, 2026). It extends the [2035 study](https://doi.org/10.5281/zenodo.21966116) to 2050. Quantum computing is treated as a full-stack facility load, not a qubit count: quantum hardware, cryogenic or optical environment, control, directly induced classical co-compute and dedicated infrastructure.
+This repository contains the paper source, scenario model and full outputs for *Quantum Computing as an Emerging Electricity Load in Finland: Scenarios to 2050 and Power-System Implications* (Merilehto, 2026; [doi:10.5281/zenodo.24014826](https://doi.org/10.5281/zenodo.24014826)). It extends the [2035 study](https://doi.org/10.5281/zenodo.21966116) to 2050. Quantum computing is treated as a full-stack facility load, not a qubit count: quantum hardware, cryogenic or optical environment, control, directly induced classical co-compute and dedicated infrastructure.
 
 The capacities are **assumed deployment stress scenarios**, not forecasts or estimates derived from quantum workloads. The contribution is to show what each path would mean for the Finnish grid, and which assumptions decide it.
 
@@ -102,8 +103,9 @@ cd paper; latexmk -pdf main.tex
   title       = {Quantum Computing as an Emerging Electricity Load in {Finland}:
                  Scenarios to 2050 and Power-System Implications},
   year        = {2026},
-  institution = {GitHub},
-  url         = {https://github.com/juhanimerilehto/qc-electricity-finland-2050/tree/v1.0.0}
+  institution = {Zenodo},
+  doi         = {10.5281/zenodo.24014826},
+  url         = {https://doi.org/10.5281/zenodo.24014826}
 }
 
 @techreport{merilehto2026qc2035,
